@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Curso de NodeJs Fundamentos",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliacer95/NodeJSBasic.git"
+  },
+  "author": "\u001b[A\u001b[BEliacer Fernandez <eliacer.fernandez@upeu.edu.pe>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eliacer95/NodeJSBasic/issues"
+  },
+  "homepage": "https://github.com/eliacer95/NodeJSBasic#readme"
+}
